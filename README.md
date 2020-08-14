@@ -10,4 +10,5 @@ API used: https://covid19.mathdro.id/api
 
 Setup:
 
-- run `npm install && npm start`
+- Install all dependencies `npm install`
+- Run Project `npm start`
